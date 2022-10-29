@@ -25,3 +25,11 @@ aktuelle [Referenzzinssatz des Bundesamtes für
 Wohnungswesen](https://www.bwo.admin.ch/bwo/de/home/mietrecht/referenzzinssatz/entwicklung-referenzzinssatz-und-durchschnittszinssatz.html)
 sowie dessen Erhöhung abgefragt werden und welches dann die maximal
 zulässige Mietzinserhöhung zurückgibt.
+
+Ihre Anwendung soll dabei das untenstehende Class Diagram umsetzen.
+
+![Class Diagram](classDiagram.png)
+
+Klonen Sie dieses Ripository, benennen Sie es Mietzins-Name,
+programmieren Sie Ihre Lösung in einem Feature Branch und geben Sie
+diese ab in dem Sie einen Pull Request nach main mit mir als Reviewer machen.
