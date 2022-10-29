@@ -1,10 +1,14 @@
 # Zulässige Mietzinsanpassung
 
-Was gestützt auf eine Anpassung des Hypothekarzinses eine zulässige Mietzinserhöhung ist, wird in [Art. 13 Abs. 1 VMWG](https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_13) geregelt:
+Was gestützt auf eine Anpassung des Hypothekarzinses eine zulässige
+Mietzinserhöhung ist, wird in [Art. 13 Abs. 1
+VMWG](https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_13)
+geregelt: 
 
 >**Art. 13 Hypothekarzinse**
 >
->Eine Hypothekarzinserhöhung von einem Viertel Prozent berechtigt in der Regel zu einer Mietzinserhöhung von höchstens:
+>Eine Hypothekarzinserhöhung von einem Viertel Prozent berechtigt in der
+>Regel zu einer Mietzinserhöhung von höchstens:
 >
 >a. 2 Prozent bei Hypothekarzinssätzen von mehr als 6 Prozent;
 >
@@ -12,6 +16,12 @@ Was gestützt auf eine Anpassung des Hypothekarzinses eine zulässige Mietzinser
 >
 >c. 3 Prozent bei Hypothekarzinssätzen von weniger als 5 Prozent.
 >
->Bei Hypothekarzinssenkungen sind die Mietzinse entsprechend herabzusetzen oder die Einsparungen mit inzwischen eingetretenen Kostensteigerungen zu verrechnen.
+>Bei Hypothekarzinssenkungen sind die Mietzinse entsprechend
+>herabzusetzen oder die Einsparungen mit inzwischen eingetretenen
+>Kostensteigerungen zu verrechnen.
 
-Programmieren Sie eine Anwendung, mit welcher der aktuelle Mietzins, der aktuelle [Referenzzinssatz des Bundesamtes für Wohnungswesen](https://www.bwo.admin.ch/bwo/de/home/mietrecht/referenzzinssatz/entwicklung-referenzzinssatz-und-durchschnittszinssatz.html) sowie dessen Erhöhung abgefragt werden und welches dann die maximal zulässige Mietzinserhöhung zurückgibt.
+Programmieren Sie eine Anwendung, mit welcher der aktuelle Mietzins, der
+aktuelle [Referenzzinssatz des Bundesamtes für
+Wohnungswesen](https://www.bwo.admin.ch/bwo/de/home/mietrecht/referenzzinssatz/entwicklung-referenzzinssatz-und-durchschnittszinssatz.html)
+sowie dessen Erhöhung abgefragt werden und welches dann die maximal
+zulässige Mietzinserhöhung zurückgibt.
